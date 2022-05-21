@@ -5,7 +5,7 @@
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5221167&auto=0&height=66"></iframe>
 </div>
 
-## 我的精品游戏视频
+## 我的精品教程视频
 
 <div align="center">
   <iframe src="//player.bilibili.com/player.html?aid=853347718&bvid=BV1gL4y1V73a&cid=581239530&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
