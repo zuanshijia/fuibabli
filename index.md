@@ -24,8 +24,11 @@
 [Msdn国内](https://msdn.itellyou.cn/)<br>
 [系统库](https://xitongku.com)<br>
 
+## 祝福<br>
+在这里钻石甲祝各位大家考试顺利。该玩的玩，该学的学，博客主人今天(2022/6/24)就经历了一场期末考试.....,不管怎么说，考试就是一场马拉松，谁跑得快谁的收获越大.</br>
+
 
  
 
 # -------the end 结束-------
-## 欢迎下次访问，本站永久链接<a href="https://zuanshijia.github.io/diamond.cn" style="color: #FB7299">还在维护中，苏维埃网站</a>
+## 欢迎下次访问，本站永久链接<a href="https://zuanshijia.github.io/diamond.cn" style="color: #FB7299">已停止维护，苏维埃网站</a>
