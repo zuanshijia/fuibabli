@@ -10,11 +10,12 @@
 ## 我的精品教程视频
 
 <div align="center">
-  <iframe src="//player.bilibili.com/player.html?aid=853347718&bvid=BV1gL4y1V73a&cid=581239530&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  <iframe src="//player.bilibili.com/player.html?aid=853347718&bvid=BV1gL4y1V73a&cid=581239530&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
 
+
 <div align="center">
-  <iframe src="//player.bilibili.com/player.html?aid=855367842&bvid=BV1eL4y1P7SN&cid=756235464&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe> </iframe>
+  <iframe src="//player.bilibili.com/player.html?aid=855367842&bvid=BV1eL4y1P7SN&cid=756235464&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
 
 
@@ -29,7 +30,7 @@
 [系统库](https://xitongku.com)<br>
 
 ## 祝福<br>
-在这里钻石甲祝各位大家考试顺利。该玩的玩，该学的学，博客主人今天(2022/6/24)就经历了一场期末考试.....,不管怎么说，考试就是一场马拉松，谁跑得快谁的收获越大.反正怎么说，祝大家考试快乐！</br>
+在这里钻石甲祝各位大家考试顺利。该玩的玩，该学的学，博客主人今天(2022/6/24)就经历了一场期末考试.....,不管怎么说，考试就是一场马拉松，谁跑得快谁的收获越大.反正怎么说，祝大家考试快乐！<br>
 
 
  
