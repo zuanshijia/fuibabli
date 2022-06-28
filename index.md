@@ -29,8 +29,6 @@
 [Msdn国内](https://msdn.itellyou.cn/)<br>
 [系统库](https://xitongku.com)<br>
 
-## Soviet Xp
-声明：作者不是我，我只是传播一下。这里的作者B站UID：uid:1014871907。QQ群：521727682。喜欢的自行去QQ群加入并下载
 
 ## 祝福<br>
 在这里钻石甲祝各位大家考试顺利。该玩的玩，该学的学，博客主人今天(2022/6/24)就经历了一场期末考试.....,不管怎么说，考试就是一场马拉松，谁跑得快谁的收获越大.反正怎么说，祝大家考试快乐！<br>
@@ -42,4 +40,4 @@
  
 
 # -------the end 结束-------
-## 欢迎下次访问，本站永久链接<a href="https://zuanshijia.github.io/diamond.cn" style="color: #FB7299">已停止维护，苏维埃网站</a>
+## 欢迎下次访问，本站永久链接<a href="https://chnsoviet.cf" style="color: #FB7299">纪念苏维埃的站点</a>
