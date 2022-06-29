@@ -36,8 +36,8 @@
 ## 文章 测试版本，不稳定<br>
 <a href="logmenu.html">目录</a>
 
-## 申请个友链吧 求求了
-联系方法:邮箱:chengdailunsteve@outlook.com QQ:2524351327
+## 申请个友链吧 求求了 <br>
+联系方法:邮箱:chengdailunsteve@outlook.com QQ:2524351327 <BR>
  
 
 # -------the end 结束-------
