@@ -4,8 +4,11 @@
 <div align="center">
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5221167&auto=0&height=66"></iframe>
 </div>
-<br>
- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=30431421&auto=0&height=66"></iframe>
+
+
+<div align="center">
+   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=347597&auto=0&height=66"></iframe>
+</div>
 
 ## 我的精品教程视频
 
@@ -30,13 +33,11 @@
 [系统库](https://xitongku.com)<br>
 
 
-## 祝福<br>
-在这里钻石甲祝各位大家考试顺利。该玩的玩，该学的学，博客主人今天(2022/6/24)就经历了一场期末考试.....,不管怎么说，考试就是一场马拉松，谁跑得快谁的收获越大.反正怎么说，祝大家考试快乐！<br>
-
 ## 文章 测试版本，不稳定<br>
 <a href="logmenu.html">目录</a>
 
-
+## 申请个友链吧 求求了
+联系方法:邮箱:chengdailunsteve@outlook.com QQ:2524351327
  
 
 # -------the end 结束-------
